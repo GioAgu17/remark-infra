@@ -1,0 +1,5 @@
+{
+  "name": "remark3-ext-infra",
+  "region": "eu-west-3",
+  "main": "stacks/index.js"
+}
